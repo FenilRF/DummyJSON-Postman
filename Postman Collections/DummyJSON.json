@@ -616,6 +616,9 @@
 									"    var jsonData = pm.response.json();\r",
 									"    pm.expect(jsonData.total).to.be.at.least(jsonData.users.length);\r",
 									"});\r",
+									"\r",
+									"\r",
+									"\r",
 									""
 								],
 								"type": "text/javascript",
@@ -635,7 +638,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{baseUrl}}/users/search?q=john",
+							"raw": "{{baseUrl}}/users/search?q=emily",
 							"host": [
 								"{{baseUrl}}"
 							],
@@ -646,7 +649,7 @@
 							"query": [
 								{
 									"key": "q",
-									"value": "john"
+									"value": "emily"
 								}
 							]
 						}
