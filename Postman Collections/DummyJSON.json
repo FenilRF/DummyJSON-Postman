@@ -6703,7 +6703,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "b8d70fe1-2f0e-4bb4-b32e-370a62d06f0b",
+				"id": "8d8426ab-41e2-4d4c-8545-2a863ed939f5",
 				"type": "text/javascript",
 				"packages": {},
 				"requests": {},
@@ -6715,7 +6715,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "c44d9ed5-8fc7-476d-89cc-20f02ada5c30",
+				"id": "f8172f7e-d005-4f1e-82eb-622cbbb9683d",
 				"type": "text/javascript",
 				"packages": {},
 				"requests": {},
@@ -6744,7 +6744,7 @@
 	"variable": [
 		{
 			"key": "baseUrl",
-			"value": ""
+			"value": "https://dummyjson.com"
 		},
 		{
 			"key": "token",
@@ -6752,55 +6752,55 @@
 		},
 		{
 			"key": "id",
-			"value": ""
+			"value": "1"
 		},
 		{
 			"key": "userID",
-			"value": ""
+			"value": "1"
 		},
 		{
 			"key": "cartID",
-			"value": ""
+			"value": "1"
 		},
 		{
 			"key": "productID",
-			"value": ""
+			"value": "1"
 		},
 		{
 			"key": "todoID",
-			"value": ""
+			"value": "1"
 		},
 		{
 			"key": "userId",
-			"value": ""
+			"value": 1
 		},
 		{
 			"key": "accessToken",
-			"value": ""
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJlbWlseXMiLCJlbWFpbCI6ImVtaWx5LmpvaG5zb25AeC5kdW1teWpzb24uY29tIiwiZmlyc3ROYW1lIjoiRW1pbHkiLCJsYXN0TmFtZSI6IkpvaG5zb24iLCJnZW5kZXIiOiJmZW1hbGUiLCJpbWFnZSI6Imh0dHBzOi8vZHVtbXlqc29uLmNvbS9pY29uL2VtaWx5cy8xMjgiLCJpYXQiOjE3NzE4MjkyMDQsImV4cCI6MTc3MTgzMjgwNH0.d3IkfnUojaJyuYuBgl7FMMFJopDA47_3uDB2V2sQygg"
 		},
 		{
 			"key": "refreshToken",
-			"value": ""
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJlbWlseXMiLCJlbWFpbCI6ImVtaWx5LmpvaG5zb25AeC5kdW1teWpzb24uY29tIiwiZmlyc3ROYW1lIjoiRW1pbHkiLCJsYXN0TmFtZSI6IkpvaG5zb24iLCJnZW5kZXIiOiJmZW1hbGUiLCJpbWFnZSI6Imh0dHBzOi8vZHVtbXlqc29uLmNvbS9pY29uL2VtaWx5cy8xMjgiLCJpYXQiOjE3NzE4MjkyMDQsImV4cCI6MTc3NDQyMTIwNH0.NVuZLVMLXpkLkB-luhg7Sk0IZsBbNLHZnTaKkr0h2zg"
 		},
 		{
 			"key": "totalUsers",
-			"value": ""
+			"value": 208
 		},
 		{
 			"key": "userLimit",
-			"value": ""
+			"value": 30
 		},
 		{
 			"key": "singleUserEmail",
-			"value": ""
+			"value": "emily.johnson@x.dummyjson.com"
 		},
 		{
 			"key": "singleUserName",
-			"value": ""
+			"value": "Emily Johnson"
 		},
 		{
 			"key": "searchUserId",
-			"value": ""
+			"value": 1
 		},
 		{
 			"key": "createdUserId",
@@ -6808,155 +6808,155 @@
 		},
 		{
 			"key": "singleProductTitle",
-			"value": ""
+			"value": "Essence Mascara Lash Princess"
 		},
 		{
 			"key": "singleProductBrand",
-			"value": ""
+			"value": "Essence"
 		},
 		{
 			"key": "searchProductId",
-			"value": ""
+			"value": 1
 		},
 		{
 			"key": "previousIds",
-			"value": ""
+			"value": "[1,2,3,4,5]"
 		},
 		{
 			"key": "productId",
-			"value": ""
+			"value": "1"
 		},
 		{
 			"key": "createdTitles",
-			"value": ""
+			"value": "[\"Test Product\",\"Test Product\",\"Test Product\",\"Test Product\",\"Test Product\",\"Test Product\",\"Test Product\",\"Test Product\"]"
 		},
 		{
 			"key": "updatedProductId",
-			"value": ""
+			"value": "1"
 		},
 		{
 			"key": "cartUserId",
-			"value": ""
+			"value": null
 		},
 		{
 			"key": "cartTotalAmount",
-			"value": ""
+			"value": 0
 		},
 		{
 			"key": "cartId",
-			"value": ""
+			"value": "51"
 		},
 		{
 			"key": "createdCartUsers",
-			"value": ""
+			"value": "[5,5,5,5,5,5]"
 		},
 		{
 			"key": "updatedCartId",
-			"value": ""
+			"value": "1"
 		},
 		{
 			"key": "postUserId",
-			"value": ""
+			"value": 121
 		},
 		{
 			"key": "postTitle",
-			"value": ""
+			"value": "His mother had always taught him"
 		},
 		{
 			"key": "postId",
-			"value": ""
+			"value": "1"
 		},
 		{
 			"key": "searchPostId",
-			"value": ""
+			"value": "7"
 		},
 		{
 			"key": "newPostId",
-			"value": ""
+			"value": 252
 		},
 		{
 			"key": "updatedPostId",
-			"value": ""
+			"value": "1"
 		},
 		{
 			"key": "commentId",
-			"value": ""
+			"value": "1"
 		},
 		{
 			"key": "commentPostId",
-			"value": ""
+			"value": 242
 		},
 		{
 			"key": "commentUserId",
-			"value": ""
+			"value": 105
 		},
 		{
 			"key": "lastCommentPostId",
-			"value": ""
+			"value": 1
 		},
 		{
 			"key": "lastCommentUser",
-			"value": ""
+			"value": "leahw"
 		},
 		{
 			"key": "newCommentId",
-			"value": ""
+			"value": 341
 		},
 		{
 			"key": "createdCommentPosts",
-			"value": ""
+			"value": "[1,1,1,1,1]"
 		},
 		{
 			"key": "todoId",
-			"value": ""
+			"value": "1"
 		},
 		{
 			"key": "todoUserId",
-			"value": ""
+			"value": 152
 		},
 		{
 			"key": "lastTodoUserId",
-			"value": ""
+			"value": 152
 		},
 		{
 			"key": "lastTodoStatus",
-			"value": ""
+			"value": false
 		},
 		{
 			"key": "newTodoId",
-			"value": ""
+			"value": 255
 		},
 		{
 			"key": "createdTodoUsers",
-			"value": ""
+			"value": "[1,1,1,1,1]"
 		},
 		{
 			"key": "recipeId",
-			"value": ""
+			"value": "1"
 		},
 		{
 			"key": "recipeName",
-			"value": ""
+			"value": "Classic Margherita Pizza"
 		},
 		{
 			"key": "searchRecipeId",
-			"value": ""
+			"value": "1"
 		},
 		{
 			"key": "firstRecipeName",
-			"value": ""
+			"value": "Chocolate Chip Cookies"
 		},
 		{
 			"key": "firstRecipeId",
-			"value": ""
+			"value": "3"
 		},
 		{
 			"key": "quoteId",
-			"value": ""
+			"value": 1
 		},
 		{
 			"key": "previousQuoteId",
-			"value": ""
+			"value": 1121
 		}
 	]
 }
